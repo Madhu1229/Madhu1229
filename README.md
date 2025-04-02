@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Umesha Wijayanthi</h1>
-<h3 align="center">A passionate Web Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhu1229&label=Profile%20views&color=0e75b6&style=flat" alt="madhu1229" /> </p>
 
 - 🔭 I’m currently working on **Mini- Project(SMART LEAVE - Automated Military Leave Management System for the Sri Lanka Army)**
 
-- 🌱 I’m currently learning **react JS, Node Js , Express Js**
+- 🌱 I’m currently working **react JS, Node Js , Express Js with MongoDB**
 
 - 💬 Ask me about **Java**
 
