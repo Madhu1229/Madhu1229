@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **pumwijayanthi@std.appsc.sab.ac.lk**
+- 📫 How to reach me **madhuumesha1229@gmail.com**
 
 - ⚡ Fun fact **Call me as Madhu**
 ---
